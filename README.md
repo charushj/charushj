@@ -11,19 +11,19 @@
 
  🌱 I’m currently learning **Ethical Hacking and Web development**
 
- 📜View my badges on [https://www.credly.com/users/aparna-mishra.5b4ad21b](https://www.credly.com/users/aparna-mishra.5b4ad21b)
+ 📜View my badges on [CREDLY](https://www.credly.com/users/charush-jain)
 
- 💬 Ask me about **Ethical Hacking**
+ 💬 Ask me about **ANYTHING!**
 
- 📫 Reach me on **https://www.linkedin.com/in/aparna-mishra-112047243/**
+ 📫 Reach me on **https://www.linkedin.com/in/charush-jain//**
 
  ⚡ Fun fact **Securing the digital frontier, one line of code at a time. 💻🔒**
 <br>
 <br>
 <h2 align="center">💫 Connect with me 💫 </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/aparna-mishra-112047243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aparna mishra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aparnamishra12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aparnamishra12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/charush-jain//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charush jain" height="30" width="40" /></a>
+<a href="https://leetcode.com/charushjaindhupia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charushj" height="30" width="40" /></a>
 </p>
 <br>
 
