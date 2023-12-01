@@ -35,9 +35,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
-<p><img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna12mishra&show_icons=true&locale=en&layout=compact" alt="aparna12mishra" /></p>
+<p><img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charushj&show_icons=true&locale=en&layout=compact" alt="charushj" /></p>
 </div>
 </br>
-<p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=aparna12mishra&show_icons=true&locale=en" alt="aparna12mishra" /></p>
+<p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=charushj&show_icons=true&locale=en" alt="charushj" /></p>
 
-<p><img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparna12mishra&" alt="aparna12mishra" /></p>
+<p><img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charushj&" alt="charushj" /></p>
